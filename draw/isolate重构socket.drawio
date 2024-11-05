@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.2">
   <diagram name="第 1 页" id="kK51Si3r2rLtlZtORP9k">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-1A5qv5OgOZvyKJSr9lI-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-1A5qv5OgOZvyKJSr9lI-3" value="socket_service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1A5qv5OgOZvyKJSr9lI-6" value="1、异常/必要log回到main" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1A5qv5OgOZvyKJSr9lI-7" value="2、Isolate保活" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1A5qv5OgOZvyKJSr9lI-8" value="3、Isolate及时清理垃圾" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1A5qv5OgOZvyKJSr9lI-9" value="管理socket连接/断开" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1A5qv5OgOZvyKJSr9lI-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-1A5qv5OgOZvyKJSr9lI-11" value="Isolate_helper" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1A5qv5OgOZvyKJSr9lI-12" value="启动Isolate" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1A5qv5OgOZvyKJSr9lI-13" value="消息打包传到Isolate" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="270" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1A5qv5OgOZvyKJSr9lI-14" value="保活Isolate" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1A5qv5OgOZvyKJSr9lI-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-1A5qv5OgOZvyKJSr9lI-17" value="socket_manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1A5qv5OgOZvyKJSr9lI-18" value="socket 心跳" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-1A5qv5OgOZvyKJSr9lI-19" value="回调socket生命周期给到main" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="270" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -133,10 +133,10 @@
         <mxCell id="46Pq0ItbNjwcVHv2dBkQ-32" value="MessageService" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="46Pq0ItbNjwcVHv2dBkQ-39">
           <mxGeometry x="280" width="320" height="1980" as="geometry" />
         </mxCell>
-        <mxCell id="46Pq0ItbNjwcVHv2dBkQ-275" value="消息处理入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="46Pq0ItbNjwcVHv2dBkQ-32">
+        <mxCell id="46Pq0ItbNjwcVHv2dBkQ-275" value="消息处理入库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="46Pq0ItbNjwcVHv2dBkQ-32">
           <mxGeometry x="110" y="780" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="46Pq0ItbNjwcVHv2dBkQ-333" value="消息处理入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="46Pq0ItbNjwcVHv2dBkQ-32">
+        <mxCell id="46Pq0ItbNjwcVHv2dBkQ-333" value="消息处理入库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="46Pq0ItbNjwcVHv2dBkQ-32">
           <mxGeometry x="110" y="1330" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="46Pq0ItbNjwcVHv2dBkQ-224" value="Socket" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="46Pq0ItbNjwcVHv2dBkQ-39">

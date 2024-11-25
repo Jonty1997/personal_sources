@@ -105,6 +105,16 @@
         <mxCell id="46Pq0ItbNjwcVHv2dBkQ-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="46Pq0ItbNjwcVHv2dBkQ-4" source="46Pq0ItbNjwcVHv2dBkQ-285" target="46Pq0ItbNjwcVHv2dBkQ-289">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="46Pq0ItbNjwcVHv2dBkQ-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="46Pq0ItbNjwcVHv2dBkQ-4" source="46Pq0ItbNjwcVHv2dBkQ-285" target="46Pq0ItbNjwcVHv2dBkQ-347">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="1680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="1170" />
+              <mxPoint x="20" y="1630" />
+              <mxPoint x="140" y="1630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="46Pq0ItbNjwcVHv2dBkQ-285" value="当前&lt;div&gt;会话/类型&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;有任务&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="46Pq0ItbNjwcVHv2dBkQ-4">
           <mxGeometry x="100" y="1130" width="80" height="80" as="geometry" />
         </mxCell>
@@ -113,6 +123,12 @@
         </mxCell>
         <mxCell id="46Pq0ItbNjwcVHv2dBkQ-289" value="根据【&lt;span style=&quot;background-color: initial;&quot;&gt;会话/类型id，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;区间，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;数量】获取消息列表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="46Pq0ItbNjwcVHv2dBkQ-4">
           <mxGeometry x="90" y="1240" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="46Pq0ItbNjwcVHv2dBkQ-345" value="消息处理入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="46Pq0ItbNjwcVHv2dBkQ-4">
+          <mxGeometry x="90" y="1370" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="46Pq0ItbNjwcVHv2dBkQ-347" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="46Pq0ItbNjwcVHv2dBkQ-4">
+          <mxGeometry x="125" y="1680" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="46Pq0ItbNjwcVHv2dBkQ-32" value="MessageService" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="46Pq0ItbNjwcVHv2dBkQ-39">
           <mxGeometry x="280" width="320" height="1980" as="geometry" />

@@ -23,7 +23,7 @@
           <mxGeometry width="400" height="160" as="geometry" />
         </mxCell>
         <mxCell id="46Pq0ItbNjwcVHv2dBkQ-39" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry y="360" width="1060" height="1980" as="geometry" />
+          <mxGeometry x="90" y="360" width="1060" height="1980" as="geometry" />
         </mxCell>
         <mxCell id="46Pq0ItbNjwcVHv2dBkQ-4" value="ChatListService" style="swimlane;whiteSpace=wrap" vertex="1" parent="46Pq0ItbNjwcVHv2dBkQ-39">
           <mxGeometry width="280" height="1980" as="geometry" />
@@ -110,8 +110,8 @@
             <mxPoint x="20" y="1680" as="targetPoint" />
             <Array as="points">
               <mxPoint x="20" y="1170" />
-              <mxPoint x="20" y="1630" />
-              <mxPoint x="140" y="1630" />
+              <mxPoint x="20" y="1740" />
+              <mxPoint x="140" y="1740" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -124,11 +124,14 @@
         <mxCell id="46Pq0ItbNjwcVHv2dBkQ-289" value="根据【&lt;span style=&quot;background-color: initial;&quot;&gt;会话/类型id，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;区间，&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;数量】获取消息列表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="46Pq0ItbNjwcVHv2dBkQ-4">
           <mxGeometry x="90" y="1240" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="46Pq0ItbNjwcVHv2dBkQ-345" value="消息处理入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="46Pq0ItbNjwcVHv2dBkQ-4">
-          <mxGeometry x="90" y="1370" width="100" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="46Pq0ItbNjwcVHv2dBkQ-347" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="46Pq0ItbNjwcVHv2dBkQ-4">
-          <mxGeometry x="125" y="1680" width="30" height="30" as="geometry" />
+          <mxGeometry x="125" y="1770" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="46Pq0ItbNjwcVHv2dBkQ-348" value="消息数量与&lt;div&gt;请求数量一致&lt;/div&gt;&lt;div&gt;且不包含endMessageId&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="46Pq0ItbNjwcVHv2dBkQ-4">
+          <mxGeometry x="80" y="1360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="46Pq0ItbNjwcVHv2dBkQ-349" value="更新任务beginMessageId" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="46Pq0ItbNjwcVHv2dBkQ-4">
+          <mxGeometry x="40" y="1560" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="46Pq0ItbNjwcVHv2dBkQ-32" value="MessageService" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="46Pq0ItbNjwcVHv2dBkQ-39">
           <mxGeometry x="280" width="320" height="1980" as="geometry" />
@@ -216,7 +219,7 @@
           <mxGeometry y="210" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="46Pq0ItbNjwcVHv2dBkQ-13" value="后端 " style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="920" y="360" width="360" height="1980" as="geometry">
+          <mxGeometry x="1010" y="360" width="360" height="1980" as="geometry">
             <mxRectangle x="280" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>

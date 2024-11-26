@@ -348,7 +348,7 @@
           <mxGeometry width="730" height="550" as="geometry" />
         </mxCell>
         <mxCell id="gbWiOMa8vafLH_si1ZQm-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gbWiOMa8vafLH_si1ZQm-20">
-          <mxGeometry width="730" height="550" as="geometry" />
+          <mxGeometry y="10" width="730" height="550" as="geometry" />
         </mxCell>
         <mxCell id="gbWiOMa8vafLH_si1ZQm-12" value="Proto" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="gbWiOMa8vafLH_si1ZQm-20">
           <mxGeometry y="60" width="60" height="30" as="geometry" />

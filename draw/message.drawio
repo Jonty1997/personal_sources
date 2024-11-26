@@ -377,6 +377,12 @@
         <mxCell id="gbWiOMa8vafLH_si1ZQm-14" value="+chatType&amp;nbsp;（非空，单聊/群聊/GPT/&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;br&gt;+chatListId&lt;span style=&quot;background-color: initial;&quot;&gt;（不为空则表示请求单聊/私聊&lt;/span&gt;&lt;div&gt;中的某个会话）&amp;nbsp;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="gbWiOMa8vafLH_si1ZQm-13">
           <mxGeometry y="50" width="240" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="gbWiOMa8vafLH_si1ZQm-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gbWiOMa8vafLH_si1ZQm-20" source="gbWiOMa8vafLH_si1ZQm-14" target="gbWiOMa8vafLH_si1ZQm-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gbWiOMa8vafLH_si1ZQm-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gbWiOMa8vafLH_si1ZQm-20" source="gbWiOMa8vafLH_si1ZQm-17" target="gbWiOMa8vafLH_si1ZQm-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gbWiOMa8vafLH_si1ZQm-29" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1040" y="260" width="360" height="70" as="geometry" />
         </mxCell>

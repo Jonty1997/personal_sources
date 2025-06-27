@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="gE_Jl_AhiK2FuCOz425i">
-    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,10 +43,10 @@
           <mxGeometry x="30" y="460" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V8p2LZqgIIOydE5HTveQ-86" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="80" y="30" width="840" height="800" as="geometry" />
+          <mxGeometry x="80" y="30" width="840" height="980" as="geometry" />
         </mxCell>
         <mxCell id="V8p2LZqgIIOydE5HTveQ-21" value="Alice" style="swimlane;whiteSpace=wrap" parent="V8p2LZqgIIOydE5HTveQ-86" vertex="1">
-          <mxGeometry width="280" height="800" as="geometry" />
+          <mxGeometry width="280" height="980" as="geometry" />
         </mxCell>
         <mxCell id="V8p2LZqgIIOydE5HTveQ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="V8p2LZqgIIOydE5HTveQ-21" source="V8p2LZqgIIOydE5HTveQ-60" target="V8p2LZqgIIOydE5HTveQ-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -81,8 +81,17 @@
         <mxCell id="xNrX6KRHu17jHrZVfqm7-154" value="使用发送密钥加密消息并发送消息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="V8p2LZqgIIOydE5HTveQ-21">
           <mxGeometry x="45" y="554.5" width="190" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xNrX6KRHu17jHrZVfqm7-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="V8p2LZqgIIOydE5HTveQ-21" source="xNrX6KRHu17jHrZVfqm7-166" target="xNrX6KRHu17jHrZVfqm7-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xNrX6KRHu17jHrZVfqm7-166" value="使用另外密钥作为input&lt;div&gt;得出自己的接收链&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="V8p2LZqgIIOydE5HTveQ-21">
+          <mxGeometry x="45" y="760" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xNrX6KRHu17jHrZVfqm7-168" value="解密消息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="V8p2LZqgIIOydE5HTveQ-21">
+          <mxGeometry x="45" y="860" width="190" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="V8p2LZqgIIOydE5HTveQ-30" value="Service" style="swimlane;whiteSpace=wrap;startSize=23;" parent="V8p2LZqgIIOydE5HTveQ-86" vertex="1">
-          <mxGeometry x="280" width="280" height="800" as="geometry" />
+          <mxGeometry x="280" width="280" height="980" as="geometry" />
         </mxCell>
         <mxCell id="V8p2LZqgIIOydE5HTveQ-81" value="接收数据" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="V8p2LZqgIIOydE5HTveQ-30" vertex="1">
           <mxGeometry x="45" y="90" width="190" height="60" as="geometry" />
@@ -93,8 +102,11 @@
         <mxCell id="xNrX6KRHu17jHrZVfqm7-156" value="中转" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="V8p2LZqgIIOydE5HTveQ-30">
           <mxGeometry x="45" y="555" width="190" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xNrX6KRHu17jHrZVfqm7-164" value="中转" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="V8p2LZqgIIOydE5HTveQ-30">
+          <mxGeometry x="45" y="760" width="190" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="V8p2LZqgIIOydE5HTveQ-49" value="Bob" style="swimlane;whiteSpace=wrap" parent="V8p2LZqgIIOydE5HTveQ-86" vertex="1">
-          <mxGeometry x="560" width="280" height="800" as="geometry" />
+          <mxGeometry x="560" width="280" height="980" as="geometry" />
         </mxCell>
         <mxCell id="V8p2LZqgIIOydE5HTveQ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="V8p2LZqgIIOydE5HTveQ-49" source="V8p2LZqgIIOydE5HTveQ-58" target="V8p2LZqgIIOydE5HTveQ-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -105,8 +117,20 @@
         <mxCell id="V8p2LZqgIIOydE5HTveQ-76" value="&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;生成并上传Keys&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="V8p2LZqgIIOydE5HTveQ-49" vertex="1">
           <mxGeometry x="45" y="90" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xNrX6KRHu17jHrZVfqm7-158" value="中转" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="V8p2LZqgIIOydE5HTveQ-49">
-          <mxGeometry x="60" y="555" width="190" height="60" as="geometry" />
+        <mxCell id="xNrX6KRHu17jHrZVfqm7-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="V8p2LZqgIIOydE5HTveQ-49" source="xNrX6KRHu17jHrZVfqm7-158" target="xNrX6KRHu17jHrZVfqm7-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xNrX6KRHu17jHrZVfqm7-158" value="跟Alice流程一样并解密出消息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="V8p2LZqgIIOydE5HTveQ-49">
+          <mxGeometry x="45" y="554" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xNrX6KRHu17jHrZVfqm7-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="V8p2LZqgIIOydE5HTveQ-49" source="xNrX6KRHu17jHrZVfqm7-160" target="xNrX6KRHu17jHrZVfqm7-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xNrX6KRHu17jHrZVfqm7-160" value="使用另外密钥作为input&lt;div&gt;得出自己的发送链&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="V8p2LZqgIIOydE5HTveQ-49">
+          <mxGeometry x="45" y="660" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xNrX6KRHu17jHrZVfqm7-162" value="使用发送密钥加密消息并发送消息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="V8p2LZqgIIOydE5HTveQ-49">
+          <mxGeometry x="45" y="760" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V8p2LZqgIIOydE5HTveQ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="V8p2LZqgIIOydE5HTveQ-86" source="V8p2LZqgIIOydE5HTveQ-77" target="V8p2LZqgIIOydE5HTveQ-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -121,6 +145,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xNrX6KRHu17jHrZVfqm7-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="V8p2LZqgIIOydE5HTveQ-86" source="xNrX6KRHu17jHrZVfqm7-156" target="xNrX6KRHu17jHrZVfqm7-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xNrX6KRHu17jHrZVfqm7-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="V8p2LZqgIIOydE5HTveQ-86" source="xNrX6KRHu17jHrZVfqm7-162" target="xNrX6KRHu17jHrZVfqm7-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xNrX6KRHu17jHrZVfqm7-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="V8p2LZqgIIOydE5HTveQ-86" source="xNrX6KRHu17jHrZVfqm7-164" target="xNrX6KRHu17jHrZVfqm7-166">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V8p2LZqgIIOydE5HTveQ-91" value="X3DH" style="swimlane;startSize=40;horizontal=1;containerType=tree;" parent="1" vertex="1">

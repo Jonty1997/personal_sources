@@ -625,7 +625,7 @@
         <mxCell id="1FXNFH5LTsJXX8TBDDXL-183" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="1FXNFH5LTsJXX8TBDDXL-158" vertex="1">
           <mxGeometry y="163" width="370" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="1FXNFH5LTsJXX8TBDDXL-184" value="expiredTime" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="1FXNFH5LTsJXX8TBDDXL-183" vertex="1">
+        <mxCell id="1FXNFH5LTsJXX8TBDDXL-184" value="usedTime" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="1FXNFH5LTsJXX8TBDDXL-183" vertex="1">
           <mxGeometry width="93" height="57" as="geometry">
             <mxRectangle width="93" height="57" as="alternateBounds" />
           </mxGeometry>
@@ -635,7 +635,7 @@
             <mxRectangle width="94" height="57" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1FXNFH5LTsJXX8TBDDXL-186" value="过期时间，避免并发发送key的情况，key使用后的30天才从数据库清除" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="1FXNFH5LTsJXX8TBDDXL-183" vertex="1">
+        <mxCell id="1FXNFH5LTsJXX8TBDDXL-186" value="使用时间，避免并发发送key的情况，key 使用后的30天才从数据库清除" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="1FXNFH5LTsJXX8TBDDXL-183" vertex="1">
           <mxGeometry x="187" width="183" height="57" as="geometry">
             <mxRectangle width="183" height="57" as="alternateBounds" />
           </mxGeometry>
@@ -1115,7 +1115,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="R_gdPivi_BqLAF4GZ3nd-201" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R_gdPivi_BqLAF4GZ3nd-200">
+        <mxCell id="R_gdPivi_BqLAF4GZ3nd-201" value=" " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R_gdPivi_BqLAF4GZ3nd-200">
           <mxGeometry x="-0.567" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

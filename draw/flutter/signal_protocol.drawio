@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Page-1" id="gE_Jl_AhiK2FuCOz425i">
-    <mxGraphModel dx="1501" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3169" dy="1669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1547,25 +1547,25 @@
           <mxGeometry y="50" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6F-x8fM-XHsesa39RUJ2-377" value="SignedPreKeyResultData" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="3080" width="340" height="117" as="geometry" />
+          <mxGeometry x="400" y="3090" width="340" height="117" as="geometry" />
         </mxCell>
         <mxCell id="6F-x8fM-XHsesa39RUJ2-378" value="&lt;div&gt;+id（预签名密钥的id）&lt;/div&gt;+record（序列化后base64）&lt;div&gt;+expiredTime（int,过期时间时间戳）&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="6F-x8fM-XHsesa39RUJ2-377">
           <mxGeometry y="50" width="340" height="67" as="geometry" />
         </mxCell>
         <mxCell id="6F-x8fM-XHsesa39RUJ2-379" value="UploadPreKeysReqData" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="3210" width="340" height="100" as="geometry" />
+          <mxGeometry x="20" y="3240" width="340" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6F-x8fM-XHsesa39RUJ2-380" value="&lt;div&gt;+ list（{id:0,record:&quot;xxx&quot;}）&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="6F-x8fM-XHsesa39RUJ2-379">
           <mxGeometry y="50" width="340" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6F-x8fM-XHsesa39RUJ2-381" value="PreKeyReqData" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="3330" width="340" height="97" as="geometry" />
+          <mxGeometry x="20" y="3360" width="340" height="97" as="geometry" />
         </mxCell>
         <mxCell id="6F-x8fM-XHsesa39RUJ2-382" value="&lt;div&gt;+otherUserId （对方用户的id）&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="6F-x8fM-XHsesa39RUJ2-381">
           <mxGeometry y="50" width="340" height="47" as="geometry" />
         </mxCell>
         <mxCell id="6F-x8fM-XHsesa39RUJ2-383" value="PreKeyResultData" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="3330" width="340" height="117" as="geometry" />
+          <mxGeometry x="400" y="3360" width="340" height="117" as="geometry" />
         </mxCell>
         <mxCell id="6F-x8fM-XHsesa39RUJ2-384" value="&lt;div&gt;+id（临时密钥的id）&lt;/div&gt;+record（序列化后base64）" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="6F-x8fM-XHsesa39RUJ2-383">
           <mxGeometry y="50" width="340" height="67" as="geometry" />

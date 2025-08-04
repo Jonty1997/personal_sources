@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Page-1" id="gE_Jl_AhiK2FuCOz425i">
-    <mxGraphModel dx="1019" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="864" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -440,7 +440,7 @@
           <mxGeometry x="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1FXNFH5LTsJXX8TBDDXL-121" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1641" width="370" height="159" as="geometry" />
+          <mxGeometry x="30" y="1610" width="370" height="192" as="geometry" />
         </mxCell>
         <mxCell id="1FXNFH5LTsJXX8TBDDXL-122" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="1FXNFH5LTsJXX8TBDDXL-121" vertex="1">
           <mxGeometry width="370" height="30" as="geometry" />
@@ -528,6 +528,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1FXNFH5LTsJXX8TBDDXL-137" value="会话序列化后base64Encode" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="1FXNFH5LTsJXX8TBDDXL-134" vertex="1">
+          <mxGeometry x="187" width="183" height="33" as="geometry">
+            <mxRectangle width="183" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-13" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="1FXNFH5LTsJXX8TBDDXL-121">
+          <mxGeometry y="159" width="370" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-14" value="createTime" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qTGAHUmjZUKYOHHXDWRR-13">
+          <mxGeometry width="93" height="33" as="geometry">
+            <mxRectangle width="93" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-15" value="DateTime" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qTGAHUmjZUKYOHHXDWRR-13">
+          <mxGeometry x="93" width="94" height="33" as="geometry">
+            <mxRectangle width="94" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-16" value="创建时间" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qTGAHUmjZUKYOHHXDWRR-13">
           <mxGeometry x="187" width="183" height="33" as="geometry">
             <mxRectangle width="183" height="33" as="alternateBounds" />
           </mxGeometry>
@@ -845,7 +863,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1FXNFH5LTsJXX8TBDDXL-241" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="1924" width="370" height="192" as="geometry" />
+          <mxGeometry x="420" y="1955" width="370" height="225" as="geometry" />
         </mxCell>
         <mxCell id="1FXNFH5LTsJXX8TBDDXL-242" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="1FXNFH5LTsJXX8TBDDXL-241" vertex="1">
           <mxGeometry width="370" height="30" as="geometry" />
@@ -950,7 +968,25 @@
             <mxRectangle width="94" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1FXNFH5LTsJXX8TBDDXL-269" value="注册Id&lt;div&gt;只有身份密钥是自己的才有&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="1FXNFH5LTsJXX8TBDDXL-266" vertex="1">
+        <mxCell id="1FXNFH5LTsJXX8TBDDXL-269" value="注册Id" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="1FXNFH5LTsJXX8TBDDXL-266" vertex="1">
+          <mxGeometry x="187" width="183" height="33" as="geometry">
+            <mxRectangle width="183" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="1FXNFH5LTsJXX8TBDDXL-241">
+          <mxGeometry y="192" width="370" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-10" value="createTime" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qTGAHUmjZUKYOHHXDWRR-9">
+          <mxGeometry width="93" height="33" as="geometry">
+            <mxRectangle width="93" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-11" value="DateTime" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qTGAHUmjZUKYOHHXDWRR-9">
+          <mxGeometry x="93" width="94" height="33" as="geometry">
+            <mxRectangle width="94" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-12" value="创建时间" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qTGAHUmjZUKYOHHXDWRR-9">
           <mxGeometry x="187" width="183" height="33" as="geometry">
             <mxRectangle width="183" height="33" as="alternateBounds" />
           </mxGeometry>

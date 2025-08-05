@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Page-1" id="gE_Jl_AhiK2FuCOz425i">
-    <mxGraphModel dx="864" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1584" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -532,20 +532,20 @@
             <mxRectangle width="183" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-13" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="1FXNFH5LTsJXX8TBDDXL-121">
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-13" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="1FXNFH5LTsJXX8TBDDXL-121" vertex="1">
           <mxGeometry y="159" width="370" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-14" value="createTime" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qTGAHUmjZUKYOHHXDWRR-13">
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-14" value="createTime" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="qTGAHUmjZUKYOHHXDWRR-13" vertex="1">
           <mxGeometry width="93" height="33" as="geometry">
             <mxRectangle width="93" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-15" value="DateTime" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qTGAHUmjZUKYOHHXDWRR-13">
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-15" value="DateTime" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="qTGAHUmjZUKYOHHXDWRR-13" vertex="1">
           <mxGeometry x="93" width="94" height="33" as="geometry">
             <mxRectangle width="94" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-16" value="创建时间" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qTGAHUmjZUKYOHHXDWRR-13">
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-16" value="创建时间" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="qTGAHUmjZUKYOHHXDWRR-13" vertex="1">
           <mxGeometry x="187" width="183" height="33" as="geometry">
             <mxRectangle width="183" height="33" as="alternateBounds" />
           </mxGeometry>
@@ -973,20 +973,20 @@
             <mxRectangle width="183" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="1FXNFH5LTsJXX8TBDDXL-241">
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="1FXNFH5LTsJXX8TBDDXL-241" vertex="1">
           <mxGeometry y="192" width="370" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-10" value="createTime" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qTGAHUmjZUKYOHHXDWRR-9">
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-10" value="createTime" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="qTGAHUmjZUKYOHHXDWRR-9" vertex="1">
           <mxGeometry width="93" height="33" as="geometry">
             <mxRectangle width="93" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-11" value="DateTime" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qTGAHUmjZUKYOHHXDWRR-9">
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-11" value="DateTime" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="qTGAHUmjZUKYOHHXDWRR-9" vertex="1">
           <mxGeometry x="93" width="94" height="33" as="geometry">
             <mxRectangle width="94" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-12" value="创建时间" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qTGAHUmjZUKYOHHXDWRR-9">
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-12" value="创建时间" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="qTGAHUmjZUKYOHHXDWRR-9" vertex="1">
           <mxGeometry x="187" width="183" height="33" as="geometry">
             <mxRectangle width="183" height="33" as="alternateBounds" />
           </mxGeometry>
@@ -1555,7 +1555,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6F-x8fM-XHsesa39RUJ2-313" value="该用户是否在&lt;div&gt;10min内获取&lt;/div&gt;&lt;div&gt;超过10个key&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=#2C56FF;" parent="6F-x8fM-XHsesa39RUJ2-288" vertex="1">
+        <mxCell id="6F-x8fM-XHsesa39RUJ2-313" value="该用户是否在&lt;div&gt;1min内获取&lt;/div&gt;&lt;div&gt;超过3个key&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=#2C56FF;" parent="6F-x8fM-XHsesa39RUJ2-288" vertex="1">
           <mxGeometry x="295" y="219" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6F-x8fM-XHsesa39RUJ2-316" value="返回密钥" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="6F-x8fM-XHsesa39RUJ2-288" vertex="1">
@@ -1588,7 +1588,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6F-x8fM-XHsesa39RUJ2-321" value="查询请求方是否真的有发超过90条消息给到密钥方" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="6F-x8fM-XHsesa39RUJ2-288" vertex="1">
+        <mxCell id="6F-x8fM-XHsesa39RUJ2-321" value="查询请求方是否真的有发超过10条消息给到密钥方" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="6F-x8fM-XHsesa39RUJ2-288" vertex="1">
           <mxGeometry x="360" y="349" width="110" height="111" as="geometry" />
         </mxCell>
         <mxCell id="6F-x8fM-XHsesa39RUJ2-326" value="返回null" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="6F-x8fM-XHsesa39RUJ2-288" vertex="1">
@@ -1618,28 +1618,28 @@
         <mxCell id="pjewbqLXQin-h_md1vYm-4" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ reqType&amp;nbsp; (1,// 1 密钥包 2 预签名 3 临时)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;+ identityKey&amp;nbsp; ( 长期秘钥 IdentityKey)&lt;/div&gt;&lt;div&gt;+ signedPreKey&amp;nbsp; (中期密钥 SignedPreKey)&lt;/div&gt;&lt;div&gt;+ preKeys&amp;nbsp; (临时密钥列表 [PreKey])&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="pjewbqLXQin-h_md1vYm-3" vertex="1">
           <mxGeometry y="50" width="340" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-1" value="IdentityKey" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-1" value="IdentityKey" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="2880" width="230" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-2" value="&lt;div&gt;+ id （长期秘钥的id）&lt;/div&gt;&lt;div&gt;+ record （序列化后base64）&amp;nbsp;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;deviceId （设备ID）&lt;/div&gt;&lt;div&gt;+&amp;nbsp;registrationId （&amp;nbsp;注册ID）&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="qTGAHUmjZUKYOHHXDWRR-1">
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-2" value="&lt;div&gt;+ id （长期秘钥的id）&lt;/div&gt;&lt;div&gt;+ record （序列化后base64）&amp;nbsp;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;deviceId （设备ID）&lt;/div&gt;&lt;div&gt;+&amp;nbsp;registrationId （&amp;nbsp;注册ID）&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="qTGAHUmjZUKYOHHXDWRR-1" vertex="1">
           <mxGeometry y="50" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-3" value="SignedPreKey&amp;nbsp;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-3" value="SignedPreKey&amp;nbsp;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="2880" width="230" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-4" value="&lt;div&gt;+ id （预签名秘钥的id）&lt;/div&gt;&lt;div&gt;+ record （序列化后base64）&amp;nbsp;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;expiredTime （过期时间时间戳）&lt;/div&gt;&lt;div&gt;+&amp;nbsp;signature（签名 序列化后base64）&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="qTGAHUmjZUKYOHHXDWRR-3">
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-4" value="&lt;div&gt;+ id （预签名秘钥的id）&lt;/div&gt;&lt;div&gt;+ record （序列化后base64）&amp;nbsp;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;expiredTime （过期时间时间戳）&lt;/div&gt;&lt;div&gt;+&amp;nbsp;signature（签名 序列化后base64）&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="qTGAHUmjZUKYOHHXDWRR-3" vertex="1">
           <mxGeometry y="50" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-5" value="PreKey&amp;nbsp;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-5" value="PreKey&amp;nbsp;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="2880" width="230" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-6" value="&lt;div&gt;+ id （预签名秘钥的id）&lt;/div&gt;&lt;div&gt;+ record （序列化后base64）&amp;nbsp;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="qTGAHUmjZUKYOHHXDWRR-5">
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-6" value="&lt;div&gt;+ id （预签名秘钥的id）&lt;/div&gt;&lt;div&gt;+ record （序列化后base64）&amp;nbsp;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="qTGAHUmjZUKYOHHXDWRR-5" vertex="1">
           <mxGeometry y="50" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-7" value="UserKeysResult" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-7" value="UserKeysResult" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="3260" width="340" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-8" value="&lt;div&gt;+ identityKey&amp;nbsp; ( 长期秘钥 IdentityKey)&lt;/div&gt;&lt;div&gt;+ signedPreKey&amp;nbsp; (中期密钥 SignedPreKey)&lt;/div&gt;&lt;div&gt;+ preKeys&amp;nbsp; (临时密钥列表 [PreKey])&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="qTGAHUmjZUKYOHHXDWRR-7">
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-8" value="&lt;div&gt;+ identityKey&amp;nbsp; ( 长期秘钥 IdentityKey)&lt;/div&gt;&lt;div&gt;+ signedPreKey&amp;nbsp; (中期密钥 SignedPreKey)&lt;/div&gt;&lt;div&gt;+ preKeys&amp;nbsp; (临时密钥列表 [PreKey])&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="qTGAHUmjZUKYOHHXDWRR-7" vertex="1">
           <mxGeometry y="50" width="340" height="70" as="geometry" />
         </mxCell>
       </root>

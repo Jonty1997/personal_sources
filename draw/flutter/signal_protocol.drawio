@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Page-1" id="gE_Jl_AhiK2FuCOz425i">
-    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6F-x8fM-XHsesa39RUJ2-330" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="2470" width="760" height="1040" as="geometry" />
-        </mxCell>
         <mxCell id="V8p2LZqgIIOydE5HTveQ-61" value="生成并上传Keys" style="swimlane;startSize=40;horizontal=1;containerType=tree;" parent="1" vertex="1">
           <mxGeometry x="1000" y="30" width="250" height="600" as="geometry" />
         </mxCell>
@@ -440,7 +437,7 @@
           <mxGeometry x="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1FXNFH5LTsJXX8TBDDXL-121" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1610" width="370" height="192" as="geometry" />
+          <mxGeometry x="10" y="1641" width="370" height="192" as="geometry" />
         </mxCell>
         <mxCell id="1FXNFH5LTsJXX8TBDDXL-122" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="1FXNFH5LTsJXX8TBDDXL-121" vertex="1">
           <mxGeometry width="370" height="30" as="geometry" />
@@ -551,7 +548,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1FXNFH5LTsJXX8TBDDXL-158" value="1" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1830" width="370" height="350" as="geometry" />
+          <mxGeometry x="10" y="2000" width="370" height="350" as="geometry" />
         </mxCell>
         <mxCell id="1FXNFH5LTsJXX8TBDDXL-159" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="1FXNFH5LTsJXX8TBDDXL-158" vertex="1">
           <mxGeometry width="370" height="30" as="geometry" />
@@ -716,7 +713,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1FXNFH5LTsJXX8TBDDXL-191" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="1640" width="370" height="271.00000000000045" as="geometry" />
+          <mxGeometry x="430" y="1640" width="370" height="307.00000000000045" as="geometry" />
         </mxCell>
         <mxCell id="1FXNFH5LTsJXX8TBDDXL-192" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="1FXNFH5LTsJXX8TBDDXL-191" vertex="1">
           <mxGeometry width="370" height="30" as="geometry" />
@@ -844,26 +841,44 @@
             <mxRectangle width="183" height="36" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1FXNFH5LTsJXX8TBDDXL-212" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="1FXNFH5LTsJXX8TBDDXL-191" vertex="1">
+        <mxCell id="Sx0cYdtdgO18hqC_Rv11-1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="1FXNFH5LTsJXX8TBDDXL-191">
           <mxGeometry y="235" width="370" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="1FXNFH5LTsJXX8TBDDXL-213" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;signature&lt;/span&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="1FXNFH5LTsJXX8TBDDXL-212" vertex="1">
+        <mxCell id="Sx0cYdtdgO18hqC_Rv11-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;signature&lt;/span&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="Sx0cYdtdgO18hqC_Rv11-1">
           <mxGeometry width="93" height="36" as="geometry">
             <mxRectangle width="93" height="36" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1FXNFH5LTsJXX8TBDDXL-214" value="String" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="1FXNFH5LTsJXX8TBDDXL-212" vertex="1">
+        <mxCell id="Sx0cYdtdgO18hqC_Rv11-3" value="String" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="Sx0cYdtdgO18hqC_Rv11-1">
           <mxGeometry x="93" width="94" height="36" as="geometry">
             <mxRectangle width="94" height="36" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1FXNFH5LTsJXX8TBDDXL-215" value="签名" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="1FXNFH5LTsJXX8TBDDXL-212" vertex="1">
+        <mxCell id="Sx0cYdtdgO18hqC_Rv11-4" value="签名" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="Sx0cYdtdgO18hqC_Rv11-1">
+          <mxGeometry x="187" width="183" height="36" as="geometry">
+            <mxRectangle width="183" height="36" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1FXNFH5LTsJXX8TBDDXL-212" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="1FXNFH5LTsJXX8TBDDXL-191" vertex="1">
+          <mxGeometry y="271" width="370" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="1FXNFH5LTsJXX8TBDDXL-213" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;deviceId&lt;/span&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="1FXNFH5LTsJXX8TBDDXL-212" vertex="1">
+          <mxGeometry width="93" height="36" as="geometry">
+            <mxRectangle width="93" height="36" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1FXNFH5LTsJXX8TBDDXL-214" value="int" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="1FXNFH5LTsJXX8TBDDXL-212" vertex="1">
+          <mxGeometry x="93" width="94" height="36" as="geometry">
+            <mxRectangle width="94" height="36" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1FXNFH5LTsJXX8TBDDXL-215" value="用户的设备ID(暂时是冗余）&lt;span style=&quot;display: none !important;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-content eusoft-eudic-chrome-extension-translate-content-style-italic quote&quot;&gt;&lt;br class=&quot;ng-star-inserted&quot;&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-topbottom-space ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-container ng-star-inserted&quot;&gt;&lt;span style=&quot;border-left: 4px solid #4D71FF !important; padding-left: 10px !important; display: block !important;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-item eusoft-eudic-chrome-extension-long-sentence&quot;&gt;&lt;span style=&quot;text-decoration-color: #202124FF !important; font-size: 0.8em !important;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-inner-content eusoft-eudic-chrome-extension-translate-inner-long-content&quot;&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-inner-html-content&quot;&gt;用户的设备ID&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-topbottom-space ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" parent="1FXNFH5LTsJXX8TBDDXL-212" vertex="1">
           <mxGeometry x="187" width="183" height="36" as="geometry">
             <mxRectangle width="183" height="36" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1FXNFH5LTsJXX8TBDDXL-241" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="1955" width="370" height="225" as="geometry" />
+          <mxGeometry x="430" y="2000" width="370" height="225" as="geometry" />
         </mxCell>
         <mxCell id="1FXNFH5LTsJXX8TBDDXL-242" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="1FXNFH5LTsJXX8TBDDXL-241" vertex="1">
           <mxGeometry width="370" height="30" as="geometry" />
@@ -1508,18 +1523,6 @@
         <mxCell id="R_gdPivi_BqLAF4GZ3nd-92" value="生成身份密钥+预签名密钥+1000临时密钥并上传服务器&lt;div&gt;（接口）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="R_gdPivi_BqLAF4GZ3nd-61" vertex="1">
           <mxGeometry x="320" y="389.5" width="120" height="90.5" as="geometry" />
         </mxCell>
-        <mxCell id="R_gdPivi_BqLAF4GZ3nd-203" value="长期秘钥过期会影响解密&lt;div&gt;中期密钥过期不会影响解密&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="10" y="2260" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="R_gdPivi_BqLAF4GZ3nd-204" value="长期秘钥的更新会影响中期密钥的更新&lt;div&gt;所以更新长期秘钥时需要同步更新中期密钥&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="10" y="2310" width="250" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R_gdPivi_BqLAF4GZ3nd-205" value="保留中期密钥一段时间&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;无论是别人的还是自己的&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="314" y="2260" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6F-x8fM-XHsesa39RUJ2-164" value="长期密钥变换时：&lt;div&gt;服务器：需要将对应用户的所有密钥删除，覆盖为新的&lt;/div&gt;&lt;div&gt;其他用户：需要将本地所有对应用户的密钥删除，重新获取&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="314" y="2310" width="340" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="6F-x8fM-XHsesa39RUJ2-288" value="频繁获取临时密钥" style="swimlane;startSize=40;horizontal=1;containerType=tree;" parent="1" vertex="1">
           <mxGeometry x="2200" y="1641" width="480" height="769" as="geometry" />
         </mxCell>
@@ -1597,50 +1600,77 @@
         <mxCell id="6F-x8fM-XHsesa39RUJ2-329" value="&lt;font style=&quot;color: rgb(44, 86, 255);&quot;&gt;一个key可以发10条消息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="6F-x8fM-XHsesa39RUJ2-288" vertex="1">
           <mxGeometry x="320" y="39" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6F-x8fM-XHsesa39RUJ2-334" value="&lt;font style=&quot;color: rgb(44, 86, 255);&quot;&gt;CommandType&amp;nbsp;&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="2500" width="220" height="180" as="geometry" />
+        <mxCell id="Sx0cYdtdgO18hqC_Rv11-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry y="2680" width="760" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="6F-x8fM-XHsesa39RUJ2-330" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="Sx0cYdtdgO18hqC_Rv11-15" vertex="1">
+          <mxGeometry width="760" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="6F-x8fM-XHsesa39RUJ2-334" value="&lt;font style=&quot;color: rgb(44, 86, 255);&quot;&gt;CommandType&amp;nbsp;&lt;/font&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="Sx0cYdtdgO18hqC_Rv11-15" vertex="1">
+          <mxGeometry x="10" y="30" width="220" height="180" as="geometry" />
         </mxCell>
         <mxCell id="6F-x8fM-XHsesa39RUJ2-335" value="+uploadUserKeys(313)&lt;br&gt;+uploadUserKeysAck(3139)&lt;br&gt;&lt;br&gt;&lt;div&gt;+getUserKeys(314)&lt;div&gt;+getUserKeysAck(3149)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;+preKeyMissingAlarm(315)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="6F-x8fM-XHsesa39RUJ2-334" vertex="1">
           <mxGeometry y="50" width="220" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="6F-x8fM-XHsesa39RUJ2-364" value="接口：上传密钥包 参考：/messaging-api/im/publicKey/save&lt;div&gt;&lt;div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;identityKey&quot;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;id&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;record&quot;: &quot;xxx&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;deviceId&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;registrationId&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;preKeys&quot;: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;id&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;record&quot;: &quot;xxx&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; ],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;signedPreKey&quot;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;id&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;record&quot;: &quot;xxx&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;expiredTime&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;signature&quot;: &quot;xxx&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; },&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="250" y="2500" width="510" height="350" as="geometry" />
+        <mxCell id="6F-x8fM-XHsesa39RUJ2-364" value="接口：上传密钥包 参考：/messaging-api/im/publicKey/save&lt;div&gt;&lt;div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;identityKey&quot;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;id&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;record&quot;: &quot;xxx&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;deviceId&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;registrationId&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;preKeys&quot;: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;id&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;record&quot;: &quot;xxx&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; ],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;signedPreKey&quot;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;id&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;record&quot;: &quot;xxx&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;expiredTime&quot;: 0,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;signature&quot;: &quot;xxx&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; },&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="Sx0cYdtdgO18hqC_Rv11-15" vertex="1">
+          <mxGeometry x="240" y="30" width="510" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="6F-x8fM-XHsesa39RUJ2-374" value="UserKeyReq" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="3090" width="340" height="120" as="geometry" />
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-7" value="UploadUserKeysReq&lt;span style=&quot;display: none !important;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-content eusoft-eudic-chrome-extension-translate-content-style-italic quote&quot;&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-white-space ng-star-inserted&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-decoration-color: #202124FF !important; font-size: 0.8em !important;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-item eusoft-eudic-chrome-extension-translate-inner-content ng-star-inserted&quot;&gt;&lt;span&gt;上传用户密钥&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="Sx0cYdtdgO18hqC_Rv11-15" vertex="1">
+          <mxGeometry x="10" y="790" width="340" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="6F-x8fM-XHsesa39RUJ2-375" value="+reqType (请求类型，1 秘钥包 2 预签名 3 临时)&lt;div&gt;+otherUserId （对方用户的id）&lt;div&gt;+preKeyNum (临时密钥数量)&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="6F-x8fM-XHsesa39RUJ2-374" vertex="1">
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-8" value="&lt;div&gt;+ identityKey&amp;nbsp; ( 长期秘钥 IdentityKey)&lt;/div&gt;&lt;div&gt;+ signedPreKey&amp;nbsp; (中期密钥 SignedPreKey)&lt;/div&gt;&lt;div&gt;+ preKeys&amp;nbsp; (临时密钥列表 [PreKey])&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="qTGAHUmjZUKYOHHXDWRR-7" vertex="1">
           <mxGeometry y="50" width="340" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pjewbqLXQin-h_md1vYm-3" value="UserKeysResult" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="3090" width="340" height="130" as="geometry" />
+        <mxCell id="Sx0cYdtdgO18hqC_Rv11-12" value="" style="group" vertex="1" connectable="0" parent="Sx0cYdtdgO18hqC_Rv11-15">
+          <mxGeometry x="20" y="410" width="730" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="pjewbqLXQin-h_md1vYm-4" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ reqType&amp;nbsp; (1,// 1 密钥包 2 预签名 3 临时)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;+ identityKey&amp;nbsp; ( 长期秘钥 IdentityKey)&lt;/div&gt;&lt;div&gt;+ signedPreKey&amp;nbsp; (中期密钥 SignedPreKey)&lt;/div&gt;&lt;div&gt;+ preKeys&amp;nbsp; (临时密钥列表 [PreKey])&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="pjewbqLXQin-h_md1vYm-3" vertex="1">
-          <mxGeometry y="50" width="340" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-1" value="IdentityKey" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="2880" width="230" height="140" as="geometry" />
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-1" value="IdentityKey" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="Sx0cYdtdgO18hqC_Rv11-12" vertex="1">
+          <mxGeometry width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="qTGAHUmjZUKYOHHXDWRR-2" value="&lt;div&gt;+ id （长期秘钥的id）&lt;/div&gt;&lt;div&gt;+ record （序列化后base64）&amp;nbsp;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;deviceId （设备ID）&lt;/div&gt;&lt;div&gt;+&amp;nbsp;registrationId （&amp;nbsp;注册ID）&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="qTGAHUmjZUKYOHHXDWRR-1" vertex="1">
           <mxGeometry y="50" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-3" value="SignedPreKey&amp;nbsp;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="275" y="2880" width="230" height="140" as="geometry" />
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-3" value="SignedPreKey&amp;nbsp;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="Sx0cYdtdgO18hqC_Rv11-12" vertex="1">
+          <mxGeometry x="245" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="qTGAHUmjZUKYOHHXDWRR-4" value="&lt;div&gt;+ id （预签名秘钥的id）&lt;/div&gt;&lt;div&gt;+ record （序列化后base64）&amp;nbsp;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;expiredTime （过期时间时间戳）&lt;/div&gt;&lt;div&gt;+&amp;nbsp;signature（签名 序列化后base64）&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="qTGAHUmjZUKYOHHXDWRR-3" vertex="1">
           <mxGeometry y="50" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-5" value="PreKey&amp;nbsp;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="2880" width="230" height="140" as="geometry" />
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-5" value="PreKey&amp;nbsp;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="Sx0cYdtdgO18hqC_Rv11-12" vertex="1">
+          <mxGeometry x="500" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="qTGAHUmjZUKYOHHXDWRR-6" value="&lt;div&gt;+ id （预签名秘钥的id）&lt;/div&gt;&lt;div&gt;+ record （序列化后base64）&amp;nbsp;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="qTGAHUmjZUKYOHHXDWRR-5" vertex="1">
           <mxGeometry y="50" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-7" value="UploadUserKeysReq&lt;span style=&quot;display: none !important;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-content eusoft-eudic-chrome-extension-translate-content-style-italic quote&quot;&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-white-space ng-star-inserted&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-decoration-color: #202124FF !important; font-size: 0.8em !important;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-item eusoft-eudic-chrome-extension-translate-inner-content ng-star-inserted&quot;&gt;&lt;span&gt;上传用户密钥&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="3260" width="340" height="120" as="geometry" />
+        <mxCell id="Sx0cYdtdgO18hqC_Rv11-13" value="" style="group" vertex="1" connectable="0" parent="Sx0cYdtdgO18hqC_Rv11-15">
+          <mxGeometry x="10" y="620" width="710" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-8" value="&lt;div&gt;+ identityKey&amp;nbsp; ( 长期秘钥 IdentityKey)&lt;/div&gt;&lt;div&gt;+ signedPreKey&amp;nbsp; (中期密钥 SignedPreKey)&lt;/div&gt;&lt;div&gt;+ preKeys&amp;nbsp; (临时密钥列表 [PreKey])&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="qTGAHUmjZUKYOHHXDWRR-7" vertex="1">
+        <mxCell id="6F-x8fM-XHsesa39RUJ2-374" value="UserKeyReq" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="Sx0cYdtdgO18hqC_Rv11-13" vertex="1">
+          <mxGeometry width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6F-x8fM-XHsesa39RUJ2-375" value="+reqType (请求类型，1 秘钥包 2 预签名 3 临时)&lt;div&gt;+otherUserId （对方用户的id）&lt;div&gt;+preKeyNum (临时密钥数量)&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="6F-x8fM-XHsesa39RUJ2-374" vertex="1">
           <mxGeometry y="50" width="340" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pjewbqLXQin-h_md1vYm-3" value="UserKeysResult" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="Sx0cYdtdgO18hqC_Rv11-13" vertex="1">
+          <mxGeometry x="370" width="340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pjewbqLXQin-h_md1vYm-4" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ reqType&amp;nbsp; (1,// 1 密钥包 2 预签名 3 临时)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;+ identityKey&amp;nbsp; ( 长期秘钥 IdentityKey)&lt;/div&gt;&lt;div&gt;+ signedPreKey&amp;nbsp; (中期密钥 SignedPreKey)&lt;/div&gt;&lt;div&gt;+ preKeys&amp;nbsp; (临时密钥列表 [PreKey])&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="pjewbqLXQin-h_md1vYm-3" vertex="1">
+          <mxGeometry y="50" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sx0cYdtdgO18hqC_Rv11-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry y="2530" width="644" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="R_gdPivi_BqLAF4GZ3nd-203" value="长期秘钥过期会影响解密&lt;div&gt;中期密钥过期不会影响解密&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Sx0cYdtdgO18hqC_Rv11-17" vertex="1">
+          <mxGeometry width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R_gdPivi_BqLAF4GZ3nd-204" value="长期秘钥的更新会影响中期密钥的更新&lt;div&gt;所以更新长期秘钥时需要同步更新中期密钥&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Sx0cYdtdgO18hqC_Rv11-17" vertex="1">
+          <mxGeometry y="50" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R_gdPivi_BqLAF4GZ3nd-205" value="保留中期密钥一段时间&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;无论是别人的还是自己的&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Sx0cYdtdgO18hqC_Rv11-17" vertex="1">
+          <mxGeometry x="304" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6F-x8fM-XHsesa39RUJ2-164" value="长期密钥变换时：&lt;div&gt;服务器：需要将对应用户的所有密钥删除，覆盖为新的&lt;/div&gt;&lt;div&gt;其他用户：需要将本地所有对应用户的密钥删除，重新获取&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Sx0cYdtdgO18hqC_Rv11-17" vertex="1">
+          <mxGeometry x="304" y="50" width="340" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

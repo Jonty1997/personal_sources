@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Page-1" id="gE_Jl_AhiK2FuCOz425i">
-    <mxGraphModel dx="1584" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1636,7 +1636,7 @@
         <mxCell id="qTGAHUmjZUKYOHHXDWRR-6" value="&lt;div&gt;+ id （预签名秘钥的id）&lt;/div&gt;&lt;div&gt;+ record （序列化后base64）&amp;nbsp;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="qTGAHUmjZUKYOHHXDWRR-5" vertex="1">
           <mxGeometry y="50" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="qTGAHUmjZUKYOHHXDWRR-7" value="UserKeysResult" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qTGAHUmjZUKYOHHXDWRR-7" value="UploadUserKeysReq&lt;span style=&quot;display: none !important;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-content eusoft-eudic-chrome-extension-translate-content-style-italic quote&quot;&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-white-space ng-star-inserted&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-decoration-color: #202124FF !important; font-size: 0.8em !important;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-item eusoft-eudic-chrome-extension-translate-inner-content ng-star-inserted&quot;&gt;&lt;span&gt;上传用户密钥&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="3260" width="340" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qTGAHUmjZUKYOHHXDWRR-8" value="&lt;div&gt;+ identityKey&amp;nbsp; ( 长期秘钥 IdentityKey)&lt;/div&gt;&lt;div&gt;+ signedPreKey&amp;nbsp; (中期密钥 SignedPreKey)&lt;/div&gt;&lt;div&gt;+ preKeys&amp;nbsp; (临时密钥列表 [PreKey])&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="qTGAHUmjZUKYOHHXDWRR-7" vertex="1">

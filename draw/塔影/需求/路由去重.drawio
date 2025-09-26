@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
   <diagram name="第 1 页" id="m10_GUItXL-dA2VN1D5R">
-    <mxGraphModel>
+    <mxGraphModel dx="1665" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1lYzRw7sGMB56sPg2yM4-1" target="1lYzRw7sGMB56sPg2yM4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-1" value="Splash" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lYzRw7sGMB56sPg2yM4-2" target="1lYzRw7sGMB56sPg2yM4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lYzRw7sGMB56sPg2yM4-2" target="1lYzRw7sGMB56sPg2yM4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-2" value="main" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-3" value="&lt;article data-identifier-application__slash__x-doc-key=&quot;1wvqreb4o5R3Mnak&quot; data-identifier-application__slash__x-cangjie-fragment=&quot;JTdCJTIya2xhc3MlMjIlM0ElMjJkb2N1bWVudCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJpbmxpbmUlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyaW5saW5lQ29kZSUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ1dWlkJTIyJTNBJTIybWcwYTdpZTI4bGhjZmh0amttdyUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMmF1dGhMb2dpblBhZ2UlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCU3RCU1RCUyQyUyMmNvbnRlbnRUeXBlJTIyJTNBJTIyY2FuZ2ppZS10ZXh0YmxvY2slMjIlN0QlNUQlN0Q=&quot; data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{},[&amp;quot;p&amp;quot;,{},[&amp;quot;inlineCode&amp;quot;,{&amp;quot;uuid&amp;quot;:&amp;quot;mg0a7ie28lhcfhtjkmw&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;authLoginPage&amp;quot;]]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p style=&quot;text-align: left; margin-left: 0px; margin-top: 0px; margin-bottom: 0px;&quot;&gt;&lt;code data-type=&quot;inlineCode&quot;&gt;authLoginPage&lt;/code&gt;&lt;/p&gt;&lt;/article&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-6" value="延时处理去重&lt;div&gt;代码逻辑以为第一个是main&lt;/div&gt;&lt;div&gt;但实际上由于自动跳转，当前第一个路由是&lt;span style=&quot;font-family: monospace; text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;authLoginPage&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: monospace; text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;在做去重时，跳过了第一个路由，发现了main，然后将其删掉&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: monospace; text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;导致了从&lt;/span&gt;&lt;span style=&quot;font-family: monospace; text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;authLoginPage回来时黑屏&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="560" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1lYzRw7sGMB56sPg2yM4-9" target="1lYzRw7sGMB56sPg2yM4-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-9" value="A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lYzRw7sGMB56sPg2yM4-11" target="1lYzRw7sGMB56sPg2yM4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-11" value="B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1lYzRw7sGMB56sPg2yM4-12" target="1lYzRw7sGMB56sPg2yM4-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-12" value="&lt;article data-identifier-application__slash__x-doc-key=&quot;1wvqreb4o5R3Mnak&quot; data-identifier-application__slash__x-cangjie-fragment=&quot;JTdCJTIya2xhc3MlMjIlM0ElMjJkb2N1bWVudCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJpbmxpbmUlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyaW5saW5lQ29kZSUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ1dWlkJTIyJTNBJTIybWcwYTdpZTI4bGhjZmh0amttdyUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMmF1dGhMb2dpblBhZ2UlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCU3RCU1RCUyQyUyMmNvbnRlbnRUeXBlJTIyJTNBJTIyY2FuZ2ppZS10ZXh0YmxvY2slMjIlN0QlNUQlN0Q=&quot; data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{},[&amp;quot;p&amp;quot;,{},[&amp;quot;inlineCode&amp;quot;,{&amp;quot;uuid&amp;quot;:&amp;quot;mg0a7ie28lhcfhtjkmw&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;authLoginPage&amp;quot;]]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p style=&quot;text-align: left; margin-left: 0px; margin-top: 0px; margin-bottom: 0px;&quot;&gt;&lt;font face=&quot;monospace&quot;&gt;C&lt;/font&gt;&lt;span style=&quot;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-content eusoft-eudic-chrome-extension-translate-content-style-italic quote&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/article&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-14" value="自动跳转" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-15" value="关闭并跳转" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-16" value="&lt;article data-identifier-application__slash__x-doc-key=&quot;1wvqreb4o5R3Mnak&quot; data-identifier-application__slash__x-cangjie-fragment=&quot;JTdCJTIya2xhc3MlMjIlM0ElMjJkb2N1bWVudCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJpbmxpbmUlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyaW5saW5lQ29kZSUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ1dWlkJTIyJTNBJTIybWcwYTdpZTI4bGhjZmh0amttdyUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMmF1dGhMb2dpblBhZ2UlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCU3RCU1RCUyQyUyMmNvbnRlbnRUeXBlJTIyJTNBJTIyY2FuZ2ppZS10ZXh0YmxvY2slMjIlN0QlNUQlN0Q=&quot; data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{},[&amp;quot;p&amp;quot;,{},[&amp;quot;inlineCode&amp;quot;,{&amp;quot;uuid&amp;quot;:&amp;quot;mg0a7ie28lhcfhtjkmw&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;authLoginPage&amp;quot;]]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p style=&quot;text-align: left; margin-left: 0px; margin-top: 0px; margin-bottom: 0px;&quot;&gt;&lt;code data-type=&quot;inlineCode&quot;&gt;C&lt;/code&gt;&lt;/p&gt;&lt;/article&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-18" value="去重正常流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1lYzRw7sGMB56sPg2yM4-22" target="1lYzRw7sGMB56sPg2yM4-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-22" value="Splash" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lYzRw7sGMB56sPg2yM4-25" target="1lYzRw7sGMB56sPg2yM4-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lYzRw7sGMB56sPg2yM4-25" target="1lYzRw7sGMB56sPg2yM4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-25" value="main" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-26" value="&lt;article data-identifier-application__slash__x-doc-key=&quot;1wvqreb4o5R3Mnak&quot; data-identifier-application__slash__x-cangjie-fragment=&quot;JTdCJTIya2xhc3MlMjIlM0ElMjJkb2N1bWVudCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJpbmxpbmUlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyaW5saW5lQ29kZSUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ1dWlkJTIyJTNBJTIybWcwYTdpZTI4bGhjZmh0amttdyUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMmF1dGhMb2dpblBhZ2UlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCU3RCU1RCUyQyUyMmNvbnRlbnRUeXBlJTIyJTNBJTIyY2FuZ2ppZS10ZXh0YmxvY2slMjIlN0QlNUQlN0Q=&quot; data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{},[&amp;quot;p&amp;quot;,{},[&amp;quot;inlineCode&amp;quot;,{&amp;quot;uuid&amp;quot;:&amp;quot;mg0a7ie28lhcfhtjkmw&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;authLoginPage&amp;quot;]]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p style=&quot;text-align: left; margin-left: 0px; margin-top: 0px; margin-bottom: 0px;&quot;&gt;&lt;code data-type=&quot;inlineCode&quot;&gt;authLoginPage&lt;/code&gt;&lt;/p&gt;&lt;/article&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-27" value="仍然延时处理去重&lt;div&gt;从后往前遍历，获取到的第一个相同名字路由是当前的路由，获取到的第二个相同名字路由是历史路由，需要清除的是历史路由&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="880" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-28" value="自动跳转" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="760" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1lYzRw7sGMB56sPg2yM4-29" value="关闭并跳转" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="760" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

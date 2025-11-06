@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tozMdDPs87WtRo0q-MuZ-26" value="Client" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="690" width="100" height="330" as="geometry" />
+          <mxGeometry x="40" y="690" width="100" height="340" as="geometry" />
         </mxCell>
         <mxCell id="tozMdDPs87WtRo0q-MuZ-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="tozMdDPs87WtRo0q-MuZ-26">
           <mxGeometry x="45" y="100" width="10" height="150" as="geometry" />
